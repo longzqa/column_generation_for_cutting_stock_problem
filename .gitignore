@@ -1,0 +1,10 @@
+**/*.pyc
+*.xml
+*.iml
+log/*.log
+
+tt*.py
+
+.idea/
+venv/
+**.iml
